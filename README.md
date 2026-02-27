@@ -1,8 +1,11 @@
 # 덤앤덤 Backend API
 합리적인 소비를 위한 위치 기반 가성비 추천 서비스 백엔드 API
 
-## 9th UMC Hackathon 회고
+상세 정보 : https://www.notion.so/9th-UMC-TEAM-6-2e461551fdde8176a81ce7382d444778
+
+# 9th UMC Hackathon 회고
 https://velog.io/@aoc0523/9th-UMC-Hackathon-회고-우수상
+
 
 ## **🚀 기술 스택**
 

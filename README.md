@@ -1,6 +1,9 @@
 # 덤앤덤 Backend API
 합리적인 소비를 위한 위치 기반 가성비 추천 서비스 백엔드 API
 
+## 9th UMC Hackathon 회고
+https://velog.io/@aoc0523/9th-UMC-Hackathon-회고-우수상
+
 ## **🚀 기술 스택**
 
 - **Framework**: Spring Boot 3.4.1
